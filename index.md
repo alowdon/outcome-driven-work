@@ -1,3 +1,1 @@
-# Outcome-Driven Work
-
-Outcome-driven work is the future.
+<p style="text-align: center">Outcome-driven work is the future.</p>
